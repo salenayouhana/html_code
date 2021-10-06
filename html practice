@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<lang="en">
+
+<html>
+    <head>
+        <title> My firts page </title>
+    </head>
+
+
+    <body>
+        <h1> This is the example of a webpage </h1>
+
+        <div>
+            <h2> This is a heading in h2 tag</h2>
+            <p> This is a paragraph within a div tag</p>
+
+        <div>
+        <p> Here is some information about my first page </p>
+            This is inside a paragraph tag that is outside of a div tag.</p>
+        <div> 
+            <h3> This is my shopping list </h3>
+                <p>Below is my shopping list</p>
+                <ol>
+                    <li>onions</li>
+                </ol>
+
+               <p>Below is my shopping list</p>
+                <ul>
+                    <li>very few people play dota 2 here!! :sadge:</li>
+                </ul>
+        </div>
+        <a href = "https.oakland.edu"> click here to view
+
+    </body>
+    
+</html>
+
+
+<nav>
+                Page1 &nbsp;&Tab; Page2 &nbsp;&Tab; Page3 &nbsp;&Tab;
+            </nav>
